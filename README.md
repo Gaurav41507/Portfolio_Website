@@ -1,2 +1,1 @@
-# Portfolio_Website
-Portfolio Website of Gaurav Sarkar
+This is my personal portfolio built using React + Vite.
