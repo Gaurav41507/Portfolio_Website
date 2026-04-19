@@ -2,6 +2,8 @@ import React, { useEffect, useState } from "react";
 import ProfileImg from "../assets/PortfolioImage.JPG";
 import WorkImg from "../assets/CodeImage.jpeg";
 import { Link } from "react-router-dom";
+import { FaPhoneAlt } from "react-icons/fa";
+
 
 const Home = () => {
   const [scrollY, setScrollY] = useState(0);
